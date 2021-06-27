@@ -1,0 +1,23 @@
+*{
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+#main-header {
+    position: fixed;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+}
+
+#img-tea-cozy-logo{
+    left: 10px;
+    height: 50px;
+}
+
+.header-link{
+    text-decoration: underline;
+}
